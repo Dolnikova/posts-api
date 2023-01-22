@@ -16,4 +16,3 @@ const app = express();
 app.use('/', router);
 
 module.exports = { app };
-console.log("Let's go");
